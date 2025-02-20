@@ -1,4 +1,4 @@
-f = open("pi_digits.txt", "r")  # open the file for reading
+f = open("u12dict2_apply/pi_digits.txt", "r")  # open the file for reading
 pi = f.read() # read the data into one long string
 f.close() # close the file to release memory
 
@@ -69,7 +69,7 @@ print("\n\n---- part 2, working with a list of integers ---")
 #---------------------------------------------------
 print("\n\n---- part 3, working with a list of words ---")
 # uncomment these lines when ready
-# f = open('declaration.txt', "r")
+# f = open('u12dict2_apply/declaration.txt', "r")
 # s = f.read()
 # f.close()
 
